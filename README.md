@@ -19,9 +19,4 @@ Here are some ideas to get you started:
 
 
 ## My Github Stats
-<div style="display: flex;">
-    <div style="width: 50%;">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Crispus-n&theme=gotham" />
-    </div>
-</div>
 
